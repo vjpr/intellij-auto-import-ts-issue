@@ -1,0 +1,7 @@
+importers:
+  packages/bar:
+    dependencies:
+      foo: link:../foo
+    specifiers:
+      foo: workspace:^0.1.0
+lockfileVersion: 5.2

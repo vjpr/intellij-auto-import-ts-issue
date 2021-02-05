@@ -2,5 +2,6 @@
   "name": "bar",
   "version": "0.1.0",
   "dependencies": {
+    "foo": "workspace:^0.1.0"
   }
 }
